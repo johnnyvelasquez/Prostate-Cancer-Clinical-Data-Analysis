@@ -1,0 +1,1 @@
+Folder contains the finalized file in which the analysis of miRNA expression data with health clinical outcomes was performed with. 
